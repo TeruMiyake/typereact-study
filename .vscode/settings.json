@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
         "devcontainers",
-        "esbenp"
-    ]
+        "esbenp",
+        "typereact",
+        "WATCHPACK"
+    ],
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
 }
